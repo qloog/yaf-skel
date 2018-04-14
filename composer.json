@@ -1,0 +1,15 @@
+{
+    "name": "phpcasts/yaf-skel",
+    "description": "yaf-skel",
+    "keywords": ["yaf-skel","yaf","skeleton"],
+    "type": "project",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qloog",
+            "email": "quanlongwang@gmail.com"
+        }
+    ],
+    "require": {}
+}
