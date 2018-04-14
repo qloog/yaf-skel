@@ -11,7 +11,7 @@
 安装好Yaf扩展之后，进入到指定目录后，执行
 
 ```
-composer create-project yaf-skel yaf-demo -vvv
+composer create-project phpcasts/yaf-skel yaf-demo -vvv
 ```
 
 到此，yaf初始化项目安装完毕。
