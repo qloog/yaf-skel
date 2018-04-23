@@ -25,3 +25,6 @@ for folder in "application"; do
     find $folder -name '*.php' | xargs sed -i "" 's/Yaf_Router/Yaf\\Router/g'
     find $folder -name '*.php' | xargs sed -i "" 's/Yaf_Exception/Yaf\\Exception/g'
 done
+
+find . 'index.php' | xargs sed -i "" 's/Yaf_Application/Yaf\\Application/g'
+
