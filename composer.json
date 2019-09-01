@@ -1,7 +1,7 @@
 {
     "name": "phpcasts/yaf-skel",
     "description": "yaf-skel",
-    "keywords": ["yaf-skel","yaf","skeleton"],
+    "keywords": ["yaf-skel","yaf","yaf-template"],
     "type": "project",
     "minimum-stability": "stable",
     "license": "MIT",

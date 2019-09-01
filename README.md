@@ -34,7 +34,7 @@ sh close_namespace.sh
 
 ## 扩展
 
-如果觉的初始化的代码提供的功能太少，可以看看此项目: [yaf-skeleton](https://github.com/qloog/yaf-skeleton)，README里有详细说明
+如果觉的初始化的代码提供的功能太少，可以看看此项目: [yaf-skeleton](https://github.com/1024casts/yaf-skeleton)，README里有详细说明
 
 
 
